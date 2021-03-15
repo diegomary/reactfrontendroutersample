@@ -1,3 +1,5 @@
+// USE THE FOLLOWING COMMAND TO GENERATE SKELETON OF COMPONENTS
+// npx generate-react-cli component Users
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
